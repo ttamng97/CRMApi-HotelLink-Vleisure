@@ -1,0 +1,8 @@
+.vs/
+.vscode/
+/*/log/
+/*/bookingLog/
+/*/Properties/
+/*/bin/
+/*/obj/
+debug.log
