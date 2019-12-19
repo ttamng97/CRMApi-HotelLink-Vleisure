@@ -1,0 +1,22 @@
+{
+  "Configs": {
+    "HotelLinkUrls": {
+      "oAuth": "http://hbe-api.whl-staging.com/external/oAuth/token",
+      "GetRatePlans": "http://hbe-api.whl-staging.com/external/pms/getRatePlans",
+      "SaveInventory": "http://hbe-api.whl-staging.com/external/pms/saveInventory",
+      "GetBookings": "http://hbe-api.whl-staging.com/external/pms/getBookings",
+      "ReadNotification": "http://hbe-api.whl-staging.com/external/pms/readNotification"
+    },
+    "ServiceUrl": {
+      "GetCredential": "http://172.104.37.16/services/cache/app/index/cms-apic/",
+      "GetSaveInventory": "",
+      "GetRatePlans": "",
+      "SaveInventory": "",
+      "GetBookings": "",
+      "ReadNotification": ""
+    },
+    "Logs": {
+      "GetRatePlans": true
+    }
+  } 
+}
